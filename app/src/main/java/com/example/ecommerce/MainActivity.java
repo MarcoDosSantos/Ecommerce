@@ -82,6 +82,7 @@ public class MainActivity extends AppCompatActivity {
                         if (userData.getPassword().equals(userPasswordKey)){
                             loadingBar.dismiss();
                             Intent intent = new Intent(MainActivity.this, HomeActivity.class);
+                            Prevalent.currentOnlineUser = userData;
                             startActivity(intent);
                         } else {
                             loadingBar.dismiss();

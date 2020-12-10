@@ -65,4 +65,16 @@
     <string name="home">Inicio</string>
     <string name="open">open</string>
     <string name="close">close</string>
+    <string name="_close">Cerrar</string>
+    <string name="_update">Actualizar</string>
+    <string name="_update_image">Actualizar imagen de usuario</string>
+    <string name="phone_number">Número de teléfono</string>
+    <string name="full_name">Nombre completo</string>
+    <string name="address">"Dirección "</string>
+    <string name="email">Email</string>
+    <string name="error_try_again">Ha ocurrido un error. Inténtalo otra vez</string>
+    <string name="updating_profile">Actualizando perfil</string>
+    <string name="please_wait_updating_profile">Por favor, espera mientras actualizamos la información de tu perfil</string>
+    <string name="profile_info_updated_succsessfully">La información de tu cuenta ha sido actualizada exitosamente</string>
+    <string name="image_not_selected">No has elegido una imagen</string>
 </resources>
